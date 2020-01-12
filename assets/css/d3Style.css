@@ -1,3 +1,7 @@
+.boldLabel {
+  font-weight: bold;
+}
+
 .aText {
   font-family: sans-serif;
   font-size: 16px;
@@ -26,6 +30,7 @@
 /* font size dependent on radius, see app.js */
 .stateText {
   font-family: sans-serif;
+  font-weight: bold;
   fill: #fff;
   text-anchor: middle;
 }
